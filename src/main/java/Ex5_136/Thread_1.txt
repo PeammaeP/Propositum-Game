@@ -1,0 +1,14 @@
+Round   1 >> Random Values =     4    7    8  Current Sum =     7 
+Round   2 >> Random Values =     5    7    8  Current Sum =    14 
+Round   3 >> Random Values =     5    7    8  Current Sum =    21 
+Round   4 >> Random Values =     2    4    9  Current Sum =    25 
+Round   5 >> Random Values =     1    2    7  Current Sum =    27 
+Round   6 >> Random Values =     1    6    7  Current Sum =    33 
+Round   7 >> Random Values =     3   10   10  Current Sum =    43 
+Round   8 >> Random Values =     5    7    8  Current Sum =    50 
+Round   9 >> Random Values =     6    9   10  Current Sum =    59 
+Round  10 >> Random Values =     3    9    9  Current Sum =    68 
+Round  11 >> Random Values =     2    3    5  Current Sum =    71 
+Round  12 >> Random Values =     2    7   10  Current Sum =    78 
+Round  13 >> Random Values =     4    4    6  Current Sum =    82 
+Round  14 >> Random Values =     2    6    9  Current Sum =    88 

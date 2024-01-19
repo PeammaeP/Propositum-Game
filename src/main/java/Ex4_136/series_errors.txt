@@ -1,0 +1,28 @@
+Series,          Seasons, Episodes, Airing
+American Dad!,        2O,      353,    yes
+The X-Files,          1l,      218,    no
+House,                 8,      177
+Hawaii Five-O,        10,              no
+Supernatural,         15,      327,    no,   100
+NYPD Blue             12,      261,    no
+The Blacklist,        10;      218,    no
+NCIS,                 20,     4.57,    yes
+King of the Hill,    -13,      259,    no
+Friends,              10,      236,    air
+Gunsmoke,             2O,     -635
+Barney Miller,         8,      170,    no
+ER,                   15,      331,    no
+Chicago Fire,         11,      239,    yes
+Chicago Med,           8,      163,    yes
+Chicago P.D.,         10,      208,    yes
+Bob's Burger,         13,      260,    yes
+Will & Grace,         11,      246,    no
+Bones,                12,      246,    no
+Frasier,              11,      264,    no
+Futurama,              8,      142,    yes
+Lassie,               19,      591,    no
+Two and a Half Men,   12,      262,    no
+The Simpsons,         34,      750,    yes
+Smallville,           10,      218,    no
+Grey's Anatomy,       19,      420,    yes
+Arrow,                 8,      170,    no
